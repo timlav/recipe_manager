@@ -2,8 +2,8 @@ $navbar-default-bg: #312312;
 $light-orange: #ff8c00;
 $navbar-default-color: $light-orange;
 
-@import "config";
 @import "bootstrap-sprockets";
+@import "config";
 @import "bootstrap";
 
 #logo {
